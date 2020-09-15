@@ -1,6 +1,6 @@
 {
     "homepage": "https://github.com/WindSoilder/hors",
-    "description": "instant coding answers via the command line(just like howdoi)"
+    "description": "instant coding answers via the command line(just like howdoi)",
     "license": "GPL-3.0",
     "version": "0.6.10",
     "architecture": {
