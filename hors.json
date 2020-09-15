@@ -2,11 +2,11 @@
     "homepage": "https://github.com/WindSoilder/hors",
     "description": "instant coding answers via the command line(just like howdoi)",
     "license": "GPL-3.0",
-    "version": "0.6.10",
+    "version": "0.7.1",
     "architecture": {
         "64bit": {
             "url": "https://github.com/WindSoilder/hors/releases/download/v0.7.1/hors-win.tar.gz",
-            "hash": "d6f13e93e484ff7db0d76fdafcc02182b25267e382c18f72bae36ece628b89dd"
+            "hash": "27ebc9847d2c6f0f2e839d5bb88f44b963ba8009c94aca6db85a47c405b030fc"
         }
     },
     "bin": "hors.exe",
