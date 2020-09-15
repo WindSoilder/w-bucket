@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/WindSoilder/hors/releases/download/v0.6.10/hors-win.tar.gz",
-            "hash": "225a2237275ee5c7855551f4026571d509e713110ef3c94b5730ecb7ed5c38f2"
+            "hash": "d6f13e93e484ff7db0d76fdafcc02182b25267e382c18f72bae36ece628b89dd"
         }
     },
     "bin": "hors.exe",
